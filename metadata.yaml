@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3592
     wikipedia: http://en.wikipedia.org/wiki/Theophilus_Cibber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16469#The-Lives-of-the-Poets-of-Great-Britain-and-Ireland--1753-Volume-II
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2005-08-07'
 gutenberg_type: Text
